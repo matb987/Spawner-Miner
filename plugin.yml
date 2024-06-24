@@ -1,0 +1,5 @@
+name: SPAWNER_MINER
+main: main
+version: 2.0
+api-version: 1.21
+commands:
